@@ -102,3 +102,9 @@ footer {
         background-color: #fff;
     }
 }
+@media (max-width: 768px) {
+  .animation-container {
+    width: 150px;
+    height: 150px;
+  }
+}
